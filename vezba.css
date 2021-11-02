@@ -1,0 +1,19 @@
+ul {
+  width: 400px;
+  background-color: rgba(0, 0, 0, 0.76);
+  margin-left: 35rem;
+  margin-top: 17rem;
+  padding-left: 0%;
+}
+li {
+  color: white;
+  padding: 15px 10px;
+  display: inline-block;
+}
+.desno {
+  float: right;
+  padding-right: 15%;
+}
+.levo {
+  background-color: green;
+}

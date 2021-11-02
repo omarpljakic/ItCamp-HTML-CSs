@@ -1,0 +1,10 @@
+ul {
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+div {
+  margin-right: 15px;
+  display: inline-block;
+}

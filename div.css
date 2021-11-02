@@ -1,0 +1,16 @@
+div {
+  display: inline-block;
+  width: 400px;
+  background-color: blue;
+  margin-left: 5rem;
+}
+.levo {
+  top: 100px;
+  left: 50px;
+  z-index: -2;
+  position: relative;
+  display: inline-block;
+  width: 350px;
+  background-color: brown;
+  margin-left: 15rem;
+}

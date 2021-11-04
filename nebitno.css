@@ -1,0 +1,27 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 20px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+tr {
+  font-style: normal;
+  text-align: left;
+}
+.siva {
+  background-color: brown;
+}
+tr:nth-child(even) {
+  background-color: gray;
+}
+tr:nth-child(odd) {
+  background-color: red;
+}
+th:hover,
+td:hover {
+  background-color: royalblue;
+}
